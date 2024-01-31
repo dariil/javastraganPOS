@@ -9,7 +9,7 @@ import javax.swing.*;
 class User{
     private String un = "admin"; // StraganCorp
     private String pw = "admin"; // adminCashier
-    
+     
     public String getUsername(){
         return un;
     }
